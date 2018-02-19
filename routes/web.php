@@ -14,6 +14,6 @@
 Route::get('/', function () {
     return view('welcome');
 });
-Route::get('bienvenue',function(){
+Route::get('youssef',function(){
     return 'bienvenue';
 });
